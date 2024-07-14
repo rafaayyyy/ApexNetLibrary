@@ -11,6 +11,7 @@ ApexNetLibrary is a Python library designed to provide a comprehensive yet strai
 - **Model Evaluation:** Tools for model evaluation including accuracy calculation.
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Main Imports](#main-imports)
 - [Usage Example](#usage-example)
@@ -21,7 +22,6 @@ ApexNetLibrary is a Python library designed to provide a comprehensive yet strai
   - [Evaluate the Model](#evaluate-the-model)
   - [Make Predictions](#make-predictions)
 - [Experiments](#experiments)
-
 
 ## Installation
 
