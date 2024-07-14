@@ -33,9 +33,16 @@ git clone https://github.com/rafaayyyy/ApexNetLibrary.git
 
 ## Main Imports
 
-To use the library, import the necessary components as shown below:
 
+To use the library, you need to have NumPy installed. If you haven't installed it yet, you can do so using the following command:
+
+```bash
+pip install numpy
+```
+
+After that, import the necessary components as shown below:
 ```python
+import numpy as np
 from ApexNetLibrary import ApexNetModel
 import ApexNetLibrary as apex
 ```
