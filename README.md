@@ -20,6 +20,7 @@ ApexNetLibrary is a Python library designed to provide a comprehensive yet strai
   - [Train the Model](#train-the-model)
   - [Evaluate the Model](#evaluate-the-model)
   - [Make Predictions](#make-predictions)
+- [Experiments](#experiments)
 
 
 ## Installation
