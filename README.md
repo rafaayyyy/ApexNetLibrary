@@ -1,4 +1,4 @@
-# ApexNetLibrary
+# ApexNetLibrary | Fully Connected Neural Network Library from Scratch
 
 ApexNetLibrary is a Python library designed to provide a comprehensive yet straightforward interface for building and training neural networks entirely from scratch. This library is aimed at educational purposes, allowing users to grasp the underlying mechanics of neural networks without relying on high-level frameworks. It is a custom deep learning neural network library built for flexibility and ease of use. This library allows you to create, train, and evaluate neural network models with simple and intuitive syntax.
 
